@@ -1,3 +1,7 @@
+Contact Information
+email: sunshinelancer828@outlook.com
+skype: live:.cid.bdafffdb0e2cbab7
+
 Thank you for reaching my profile!
 
 As a Full Stack developer, I have 8 years of experience with web dev.<br>
