@@ -22,9 +22,3 @@ Technologies I work with:
 
 For me, Credit is my motto.
 I never give up, constantly learn, easy communication.
-
-I am focused on adding real value to our client's portfolio.<br>
-Our belief is clear that if we focus on client's success we are automatically successful.<br>
-Hope to work for great people and making them happy through my work and that is my sole priority to bring smiles to the people who choose me and give me the opportunity to serve them with my skills.<br>
-I can start to work right now and I am available 24/7.<br>
-I’m working more than 40 hours per week and available in your time zone so communication will never become a problem.<br>
