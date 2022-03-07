@@ -5,7 +5,7 @@ skype: live:.cid.bdafffdb0e2cbab7
 
 Thank you for reaching my profile!
 
-As a Full Stack developer, I have 8 years of experience with web dev.<br>
+As a Full Stack developer, I have 6 years of experience with web dev.<br>
 Especially, I have rich experience of front-end techniques such as React.js/Redux, Angular 4/6/9, Vue.js/Vuex.
 My key qualities: knowledge, experience and commitment.
 Technologies I work with:
@@ -13,7 +13,7 @@ Technologies I work with:
 ✔️ React, React Redux, React Router, Redux Saga.<br>
 ✔️ ES6/7, TypeScript, JavaScript, JSON, AJAX.<br>
 ✔️ Expo API/tools for rapid prototyping.<br>
-✔️ Redux / MobX / MobX State Tree as state containers.<br>
+✔️ Redux state containers.<br>
 ✔️ Firebase as BaaS when there is no dedicated backend used.<br>
 ✔️ React Navigation / React Native Router Flux as navigation.<br>
 ✔️ Angular, vue.js/vuex.<br>
