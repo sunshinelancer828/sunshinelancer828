@@ -3,8 +3,11 @@ Looking for More Job Opportunities?
 Join our communities to the links new jobs, exciting projects, and more ways to earn money!
 
 💼 Find new job opportunities
+
 🔥 Get updates on available projects
+
 🤝 Connect with other professionals
+
 📈 Explore new ways to grow your income
 
 Join us today and take your next step toward success!
